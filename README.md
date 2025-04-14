@@ -6,11 +6,6 @@ Um programa simples em Python que permite cadastrar alunos, registrar suas notas
 
 ---
 
-## Languages / Idiomas
-
-- [🇺🇸 English](#project-description)
-- [🇧🇷 Português](#descrição-do-projeto)
-
 ---
 
 ## 🇺🇸 Project Description
